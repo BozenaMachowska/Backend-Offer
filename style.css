@@ -1,0 +1,33 @@
+.job-offer {
+  border: 2px solid #00b0ff;
+  border-radius: 5px;
+  padding: 20px;
+  background-color: #fafafa;
+}
+
+.job-offer h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #00b0ff;
+}
+
+.offer-label {
+  font-weight: bold;
+  color: #00b0ff;
+}
+
+.job-offer ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.job-offer li {
+  margin: 10px 0;
+}
+
+.apply-now {
+  font-size: 18px;
+  font-weight: bold;
+  color: #00b0ff;
+}
